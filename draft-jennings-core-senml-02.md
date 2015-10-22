@@ -703,7 +703,7 @@ strict schema guided EXI processing.
 ~~~~
 
 The following shows a hexdump of the EXI produced from encoding the
-following XML example. Note that while this example is similar to the
+following XML example. Note that this example is similar to the
 first example in {{co-ex}} in JSON format.
 
 
